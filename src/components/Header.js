@@ -51,7 +51,7 @@ import {
                 variant="h6"
                 className={classes.title}
               >
-                Crypto Hunter
+                Crypto Explorer
               </Typography>
               <Select
                 variant="outlined"
